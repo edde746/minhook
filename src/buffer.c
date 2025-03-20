@@ -305,5 +305,5 @@ VOID FreeBuffer(LPVOID pBuffer)
 //-------------------------------------------------------------------------
 BOOL IsExecutableAddress(LPVOID pAddress)
 {
-    return true;
+    return TRUE;
 }
